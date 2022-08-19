@@ -9,7 +9,11 @@
 
 // Task 3
 // let text = document.querySelectorAll("p");
-// console.log(text);
+//  alert('Selector text 0: First paragraph');
+//  alert('Selector text 1: Second paragraph');
+//  alert('Selector text 1: Second paragraph');
+
+
 
 // Task 4
 // let list = document.getElementById('list');
